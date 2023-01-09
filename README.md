@@ -5,4 +5,4 @@ Published in August of 2022, this book was written by:
 - Diego Sierra-Costa
 - Kenneth M. Merz, Jr.
 
-I take no credit for any conceptual explorations in this repository and only the practice problem answers are my own work.
+I take no credit for any conceptual explorations in this repository and only claim the practice problem answers as my own work.
